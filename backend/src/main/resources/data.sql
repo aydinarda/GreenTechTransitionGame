@@ -1,0 +1,2 @@
+-- Seed data for development/testing
+-- Inserted after schema creation by Hibernate
